@@ -1,0 +1,13 @@
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.exe
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.deps.json
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.runtimeconfig.json
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.runtimeconfig.dev.json
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.dll
+D:\Homework\RandomShit\RandomShit\bin\Debug\netcoreapp3.1\RandomShit.pdb
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.csprojAssemblyReference.cache
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.csproj.CoreCompileInputs.cache
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.AssemblyInfoInputs.cache
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.AssemblyInfo.cs
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.dll
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.pdb
+D:\Homework\RandomShit\RandomShit\obj\Debug\netcoreapp3.1\RandomShit.genruntimeconfig.cache

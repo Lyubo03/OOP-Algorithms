@@ -1,0 +1,74 @@
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.exe
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csprojAssemblyReference.cache
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.AssemblyInfoInputs.cache
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.AssemblyInfo.cs
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csproj.CopyComplete
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.deps.json
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.runtimeconfig.json
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.runtimeconfig.dev.json
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.pdb
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csproj.CoreCompileInputs.cache
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.pdb
+D:\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.genruntimeconfig.cache
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.exe
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.deps.json
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.runtimeconfig.json
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.runtimeconfig.dev.json
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\FirstLookToEF.pdb
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csprojAssemblyReference.cache
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csproj.CoreCompileInputs.cache
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.AssemblyInfoInputs.cache
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.AssemblyInfo.cs
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.csproj.CopyComplete
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.dll
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.pdb
+D:\Programing flex\Homework\FirstLookToEF\FirstLookToEF\obj\Debug\netcoreapp3.1\FirstLookToEF.genruntimeconfig.cache

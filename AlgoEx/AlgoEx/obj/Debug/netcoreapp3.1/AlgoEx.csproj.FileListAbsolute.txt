@@ -1,0 +1,13 @@
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.exe
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.deps.json
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.runtimeconfig.json
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.runtimeconfig.dev.json
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.dll
+D:\Homework\AlgoEx\AlgoEx\bin\Debug\netcoreapp3.1\AlgoEx.pdb
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.csprojAssemblyReference.cache
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.csproj.CoreCompileInputs.cache
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.AssemblyInfoInputs.cache
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.AssemblyInfo.cs
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.dll
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.pdb
+D:\Homework\AlgoEx\AlgoEx\obj\Debug\netcoreapp3.1\AlgoEx.genruntimeconfig.cache

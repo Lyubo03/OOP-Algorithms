@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.exe
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.deps.json
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.dll
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.pdb
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.dll
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.pdb
+D:\Homework\AbstractionsAndInterfaces\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.exe
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.deps.json
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.runtimeconfig.json
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.runtimeconfig.dev.json
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.dll
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\Try.pdb
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Homework\EncapsulationForReal\Try\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.csprojAssemblyReference.cache
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.AssemblyInfo.cs
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.csproj.CopyComplete
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.dll
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.pdb
+D:\Homework\EncapsulationForReal\Try\obj\Debug\netcoreapp3.1\Try.genruntimeconfig.cache

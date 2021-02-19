@@ -1,0 +1,13 @@
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.exe
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.deps.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.runtimeconfig.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.runtimeconfig.dev.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.dll
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp3.1\CarsETC.pdb
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.csprojAssemblyReference.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.csproj.CoreCompileInputs.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.AssemblyInfoInputs.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.AssemblyInfo.cs
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.dll
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.pdb
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp3.1\CarsETC.genruntimeconfig.cache

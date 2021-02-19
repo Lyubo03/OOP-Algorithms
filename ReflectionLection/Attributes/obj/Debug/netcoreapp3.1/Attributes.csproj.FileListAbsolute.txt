@@ -1,0 +1,13 @@
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.exe
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.json
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.dev.json
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+D:\Homework\ReflectionLection\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
+D:\Homework\ReflectionLection\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache

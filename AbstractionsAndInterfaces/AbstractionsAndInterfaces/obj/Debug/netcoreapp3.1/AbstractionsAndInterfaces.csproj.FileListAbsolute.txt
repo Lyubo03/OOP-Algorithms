@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.exe
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.deps.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.dll
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\AbstractionsAndInterfaces.pdb
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.dll
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.pdb
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\AbstractionsAndInterfaces.genruntimeconfig.cache

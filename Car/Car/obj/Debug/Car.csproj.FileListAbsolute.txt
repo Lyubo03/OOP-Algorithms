@@ -1,0 +1,10 @@
+D:\Homework\Car\Car\bin\Debug\Car.exe.config
+D:\Homework\Car\Car\bin\Debug\Car.exe
+D:\Homework\Car\Car\bin\Debug\Car.pdb
+D:\Homework\Car\Car\obj\Debug\Car.Form1.resources
+D:\Homework\Car\Car\obj\Debug\Car.Properties.Resources.resources
+D:\Homework\Car\Car\obj\Debug\Car.csproj.GenerateResource.cache
+D:\Homework\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\Homework\Car\Car\obj\Debug\Car.exe
+D:\Homework\Car\Car\obj\Debug\Car.pdb
+D:\Homework\Car\Car\obj\Debug\Car.csprojAssemblyReference.cache

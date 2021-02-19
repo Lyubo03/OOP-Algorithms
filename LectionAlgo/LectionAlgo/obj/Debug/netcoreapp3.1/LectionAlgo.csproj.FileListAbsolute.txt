@@ -1,0 +1,13 @@
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.exe
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.deps.json
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.runtimeconfig.json
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.runtimeconfig.dev.json
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.dll
+D:\Homework\LectionAlgo\LectionAlgo\bin\Debug\netcoreapp3.1\LectionAlgo.pdb
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.csprojAssemblyReference.cache
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.csproj.CoreCompileInputs.cache
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.AssemblyInfoInputs.cache
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.AssemblyInfo.cs
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.dll
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.pdb
+D:\Homework\LectionAlgo\LectionAlgo\obj\Debug\netcoreapp3.1\LectionAlgo.genruntimeconfig.cache

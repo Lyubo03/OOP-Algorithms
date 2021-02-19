@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Space-Traveller/1.0.0": {
+        "runtime": {
+          "Space-Traveller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Space-Traveller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

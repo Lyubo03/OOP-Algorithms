@@ -1,0 +1,13 @@
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.exe
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.deps.json
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.runtimeconfig.json
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.runtimeconfig.dev.json
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.dll
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\bin\Debug\netcoreapp3.1\CarsAndTheirCargo.pdb
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.csprojAssemblyReference.cache
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.csproj.CoreCompileInputs.cache
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.AssemblyInfoInputs.cache
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.AssemblyInfo.cs
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.dll
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.pdb
+D:\Homework\CarsAndTheirCargo\CarsAndTheirCargo\obj\Debug\netcoreapp3.1\CarsAndTheirCargo.genruntimeconfig.cache

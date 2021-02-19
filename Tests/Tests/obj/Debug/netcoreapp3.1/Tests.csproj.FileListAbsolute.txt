@@ -1,0 +1,13 @@
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.exe
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+D:\Homework\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+D:\Homework\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache

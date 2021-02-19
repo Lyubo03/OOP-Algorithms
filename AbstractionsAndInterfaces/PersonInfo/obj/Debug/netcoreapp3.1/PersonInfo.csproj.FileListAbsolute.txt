@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Homework\AbstractionsAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

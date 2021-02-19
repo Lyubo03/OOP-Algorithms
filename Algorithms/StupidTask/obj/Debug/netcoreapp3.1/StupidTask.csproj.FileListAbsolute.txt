@@ -1,0 +1,13 @@
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.exe
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.deps.json
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.runtimeconfig.json
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.runtimeconfig.dev.json
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.dll
+D:\Homework\Algorithms\StupidTask\bin\Debug\netcoreapp3.1\StupidTask.pdb
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.csprojAssemblyReference.cache
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.csproj.CoreCompileInputs.cache
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.AssemblyInfoInputs.cache
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.AssemblyInfo.cs
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.dll
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.pdb
+D:\Homework\Algorithms\StupidTask\obj\Debug\netcoreapp3.1\StupidTask.genruntimeconfig.cache

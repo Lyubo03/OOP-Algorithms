@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Homework\AbstractionsAndInterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

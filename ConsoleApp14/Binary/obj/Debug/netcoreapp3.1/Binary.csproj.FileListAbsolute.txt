@@ -1,0 +1,13 @@
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.exe
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.deps.json
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.runtimeconfig.json
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.runtimeconfig.dev.json
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.dll
+D:\Homework\ConsoleApp14\Binary\bin\Debug\netcoreapp3.1\Binary.pdb
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.csproj.CoreCompileInputs.cache
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.AssemblyInfoInputs.cache
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.AssemblyInfo.cs
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.dll
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.pdb
+D:\Homework\ConsoleApp14\Binary\obj\Debug\netcoreapp3.1\Binary.genruntimeconfig.cache

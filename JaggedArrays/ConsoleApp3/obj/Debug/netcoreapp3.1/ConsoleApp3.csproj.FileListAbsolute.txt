@@ -1,0 +1,13 @@
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Homework\JaggedArrays\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Homework\JaggedArrays\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

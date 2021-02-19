@@ -1,0 +1,10 @@
+D:\Homework\Traffic\Traffic\bin\Debug\Traffic.exe.config
+D:\Homework\Traffic\Traffic\bin\Debug\Traffic.exe
+D:\Homework\Traffic\Traffic\bin\Debug\Traffic.pdb
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.csprojAssemblyReference.cache
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.Form1.resources
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.cache
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.exe
+D:\Homework\Traffic\Traffic\obj\Debug\Traffic.pdb

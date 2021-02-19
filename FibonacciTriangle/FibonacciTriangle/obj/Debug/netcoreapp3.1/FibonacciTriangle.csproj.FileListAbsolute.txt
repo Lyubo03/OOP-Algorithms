@@ -1,0 +1,13 @@
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.exe
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.deps.json
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.runtimeconfig.json
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.runtimeconfig.dev.json
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.dll
+D:\Homework\FibonacciTriangle\FibonacciTriangle\bin\Debug\netcoreapp3.1\FibonacciTriangle.pdb
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.csprojAssemblyReference.cache
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.csproj.CoreCompileInputs.cache
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.AssemblyInfoInputs.cache
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.AssemblyInfo.cs
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.dll
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.pdb
+D:\Homework\FibonacciTriangle\FibonacciTriangle\obj\Debug\netcoreapp3.1\FibonacciTriangle.genruntimeconfig.cache

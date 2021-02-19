@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.exe
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.deps.json
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.dll
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\bin\Debug\netcoreapp3.1\EnumeratorsAndComperators.pdb
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.dll
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.pdb
+D:\Homework\EnumeratorsAndComperators\EnumeratorsAndComperators\obj\Debug\netcoreapp3.1\EnumeratorsAndComperators.genruntimeconfig.cache

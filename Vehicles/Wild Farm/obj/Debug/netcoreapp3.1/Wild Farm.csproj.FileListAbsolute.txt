@@ -1,0 +1,13 @@
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.exe
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.deps.json
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.runtimeconfig.json
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.runtimeconfig.dev.json
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.dll
+D:\Homework\Vehicles\Wild Farm\bin\Debug\netcoreapp3.1\Wild Farm.pdb
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csprojAssemblyReference.cache
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csproj.CoreCompileInputs.cache
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfoInputs.cache
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfo.cs
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.dll
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.pdb
+D:\Homework\Vehicles\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.genruntimeconfig.cache

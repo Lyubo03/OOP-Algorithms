@@ -1,0 +1,14 @@
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.exe
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.deps.json
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.runtimeconfig.json
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.runtimeconfig.dev.json
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.dll
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\TransferDirectory.pdb
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.csprojAssemblyReference.cache
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.csproj.CoreCompileInputs.cache
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.AssemblyInfoInputs.cache
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.AssemblyInfo.cs
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.dll
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.pdb
+D:\Homework\TransferDirectory\TransferDirectory\obj\Debug\netcoreapp3.1\TransferDirectory.genruntimeconfig.cache
+D:\Homework\TransferDirectory\TransferDirectory\bin\Debug\netcoreapp3.1\Program.cs

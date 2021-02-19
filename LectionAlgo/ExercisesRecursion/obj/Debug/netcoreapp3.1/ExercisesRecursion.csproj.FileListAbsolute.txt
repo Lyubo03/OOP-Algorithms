@@ -1,0 +1,13 @@
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.exe
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.deps.json
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.runtimeconfig.json
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.runtimeconfig.dev.json
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.dll
+D:\Homework\LectionAlgo\ExercisesRecursion\bin\Debug\netcoreapp3.1\ExercisesRecursion.pdb
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.csprojAssemblyReference.cache
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.csproj.CoreCompileInputs.cache
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.AssemblyInfoInputs.cache
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.AssemblyInfo.cs
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.dll
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.pdb
+D:\Homework\LectionAlgo\ExercisesRecursion\obj\Debug\netcoreapp3.1\ExercisesRecursion.genruntimeconfig.cache

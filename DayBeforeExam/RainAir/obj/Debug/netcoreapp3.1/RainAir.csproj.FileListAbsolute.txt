@@ -1,0 +1,13 @@
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.exe
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.deps.json
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.runtimeconfig.json
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.runtimeconfig.dev.json
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.dll
+D:\Homework\DayBeforeExam\RainAir\bin\Debug\netcoreapp3.1\RainAir.pdb
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.csprojAssemblyReference.cache
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.csproj.CoreCompileInputs.cache
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.AssemblyInfoInputs.cache
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.AssemblyInfo.cs
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.dll
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.pdb
+D:\Homework\DayBeforeExam\RainAir\obj\Debug\netcoreapp3.1\RainAir.genruntimeconfig.cache

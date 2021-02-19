@@ -1,0 +1,13 @@
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.exe
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.deps.json
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.runtimeconfig.json
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.runtimeconfig.dev.json
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.dll
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\bin\Debug\netcoreapp3.1\Generic Swap Method Strings.pdb
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.csprojAssemblyReference.cache
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.csproj.CoreCompileInputs.cache
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.AssemblyInfoInputs.cache
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.AssemblyInfo.cs
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.dll
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.pdb
+D:\Homework\Generics-Exercise\Generic Swap Method Strings\obj\Debug\netcoreapp3.1\Generic Swap Method Strings.genruntimeconfig.cache

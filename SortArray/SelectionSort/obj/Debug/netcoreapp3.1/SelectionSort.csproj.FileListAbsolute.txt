@@ -1,0 +1,13 @@
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\Homework\SortArray\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\Homework\SortArray\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

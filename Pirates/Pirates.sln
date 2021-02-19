@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates", "Pirates\Pirates.csproj", "{06C42A29-58A0-4DBD-BDCC-8FFB9F4EC419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DD55C5CC-D027-4DAA-A4C7-623C1CB3D266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C42A29-58A0-4DBD-BDCC-8FFB9F4EC419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C42A29-58A0-4DBD-BDCC-8FFB9F4EC419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C42A29-58A0-4DBD-BDCC-8FFB9F4EC419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C42A29-58A0-4DBD-BDCC-8FFB9F4EC419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD55C5CC-D027-4DAA-A4C7-623C1CB3D266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD55C5CC-D027-4DAA-A4C7-623C1CB3D266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD55C5CC-D027-4DAA-A4C7-623C1CB3D266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD55C5CC-D027-4DAA-A4C7-623C1CB3D266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B973240A-E7F3-4D4B-B6D4-E70A18109389}
+	EndGlobalSection
+EndGlobal

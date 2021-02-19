@@ -1,0 +1,13 @@
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.exe
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.deps.json
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.runtimeconfig.json
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.runtimeconfig.dev.json
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.dll
+D:\Homework\Algorithms\8QueensPuzzle\bin\Debug\netcoreapp3.1\8QueensPuzzle.pdb
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.csprojAssemblyReference.cache
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.csproj.CoreCompileInputs.cache
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.AssemblyInfoInputs.cache
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.AssemblyInfo.cs
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.dll
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.pdb
+D:\Homework\Algorithms\8QueensPuzzle\obj\Debug\netcoreapp3.1\8QueensPuzzle.genruntimeconfig.cache

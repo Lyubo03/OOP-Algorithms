@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Homework\AbstractionsAndInterfaces\AbstractionsAndInterfaces\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

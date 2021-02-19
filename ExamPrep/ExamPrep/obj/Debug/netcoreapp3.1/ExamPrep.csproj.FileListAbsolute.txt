@@ -1,0 +1,13 @@
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.exe
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.deps.json
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.json
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.dev.json
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.dll
+D:\Homework\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csprojAssemblyReference.cache
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.CoreCompileInputs.cache
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfoInputs.cache
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfo.cs
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.dll
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\Homework\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.genruntimeconfig.cache

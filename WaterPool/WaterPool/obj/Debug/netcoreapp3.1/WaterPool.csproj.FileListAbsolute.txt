@@ -1,0 +1,13 @@
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.csprojAssemblyReference.cache
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.AssemblyInfoInputs.cache
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.AssemblyInfo.cs
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.csproj.CoreCompileInputs.cache
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.exe
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.deps.json
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.runtimeconfig.json
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.runtimeconfig.dev.json
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.dll
+D:\Programing flex\Homework\WaterPool\WaterPool\bin\Debug\netcoreapp3.1\WaterPool.pdb
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.dll
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.pdb
+D:\Programing flex\Homework\WaterPool\WaterPool\obj\Debug\netcoreapp3.1\WaterPool.genruntimeconfig.cache

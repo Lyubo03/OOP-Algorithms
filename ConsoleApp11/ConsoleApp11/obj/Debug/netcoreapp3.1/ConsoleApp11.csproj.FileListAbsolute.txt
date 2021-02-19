@@ -1,0 +1,13 @@
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Homework\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\Homework\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache

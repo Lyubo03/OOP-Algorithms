@@ -1,0 +1,13 @@
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\Homework\Zoo\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\Homework\Zoo\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

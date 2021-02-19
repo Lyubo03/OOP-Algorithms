@@ -1,0 +1,13 @@
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.csprojAssemblyReference.cache
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.AssemblyInfo.cs
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.exe
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.deps.json
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.runtimeconfig.json
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.runtimeconfig.dev.json
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.dll
+D:\Homework\EncapsulationForReal\EncapsulationForReal\bin\Debug\netcoreapp3.1\EncapsulationForReal.pdb
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.dll
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.pdb
+D:\Homework\EncapsulationForReal\EncapsulationForReal\obj\Debug\netcoreapp3.1\EncapsulationForReal.genruntimeconfig.cache

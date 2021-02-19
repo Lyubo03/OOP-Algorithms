@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.exe
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.deps.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.dll
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\bin\Debug\netcoreapp3.1\BookLibrary.pdb
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.dll
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.pdb
+D:\Homework\EnumeratorsAndComperators\ConsoleApp1\obj\Debug\netcoreapp3.1\BookLibrary.genruntimeconfig.cache

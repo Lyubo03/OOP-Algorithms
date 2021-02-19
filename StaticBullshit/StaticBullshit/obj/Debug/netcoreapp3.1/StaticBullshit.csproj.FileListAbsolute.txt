@@ -1,0 +1,13 @@
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.exe
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.deps.json
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.runtimeconfig.json
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.runtimeconfig.dev.json
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.dll
+D:\Homework\StaticBullshit\StaticBullshit\bin\Debug\netcoreapp3.1\StaticBullshit.pdb
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.csprojAssemblyReference.cache
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.csproj.CoreCompileInputs.cache
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.AssemblyInfoInputs.cache
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.AssemblyInfo.cs
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.dll
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.pdb
+D:\Homework\StaticBullshit\StaticBullshit\obj\Debug\netcoreapp3.1\StaticBullshit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.exe
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.deps.json
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.runtimeconfig.json
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.runtimeconfig.dev.json
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.dll
+D:\Homework\Polymorohism\Polymorohism\bin\Debug\netcoreapp3.1\Polymorohism.pdb
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.csprojAssemblyReference.cache
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.csproj.CoreCompileInputs.cache
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.AssemblyInfoInputs.cache
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.AssemblyInfo.cs
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.dll
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.pdb
+D:\Homework\Polymorohism\Polymorohism\obj\Debug\netcoreapp3.1\Polymorohism.genruntimeconfig.cache

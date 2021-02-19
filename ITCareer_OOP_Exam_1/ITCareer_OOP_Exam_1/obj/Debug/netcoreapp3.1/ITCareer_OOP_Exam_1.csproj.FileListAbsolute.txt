@@ -1,0 +1,13 @@
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.exe
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.deps.json
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.runtimeconfig.json
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.runtimeconfig.dev.json
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.dll
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\bin\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.pdb
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.csprojAssemblyReference.cache
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.csproj.CoreCompileInputs.cache
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.AssemblyInfoInputs.cache
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.AssemblyInfo.cs
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.dll
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.pdb
+D:\Homework\ITCareer_OOP_Exam_1\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Homework\FunctionalProgramming\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Homework\FunctionalProgramming\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

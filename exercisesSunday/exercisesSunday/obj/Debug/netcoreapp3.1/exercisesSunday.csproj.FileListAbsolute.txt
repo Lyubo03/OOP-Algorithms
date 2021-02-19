@@ -1,0 +1,13 @@
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.exe
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.deps.json
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.runtimeconfig.json
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.runtimeconfig.dev.json
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.dll
+D:\Homework\exercisesSunday\exercisesSunday\bin\Debug\netcoreapp3.1\exercisesSunday.pdb
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.csprojAssemblyReference.cache
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.csproj.CoreCompileInputs.cache
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.AssemblyInfoInputs.cache
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.AssemblyInfo.cs
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.dll
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.pdb
+D:\Homework\exercisesSunday\exercisesSunday\obj\Debug\netcoreapp3.1\exercisesSunday.genruntimeconfig.cache

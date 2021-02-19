@@ -1,0 +1,13 @@
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.exe
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.deps.json
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.runtimeconfig.json
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.runtimeconfig.dev.json
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.dll
+D:\Homework\BasicProject\BasicProject\bin\Debug\netcoreapp3.1\BasicProject.pdb
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.csprojAssemblyReference.cache
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.csproj.CoreCompileInputs.cache
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.AssemblyInfoInputs.cache
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.AssemblyInfo.cs
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.dll
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.pdb
+D:\Homework\BasicProject\BasicProject\obj\Debug\netcoreapp3.1\BasicProject.genruntimeconfig.cache

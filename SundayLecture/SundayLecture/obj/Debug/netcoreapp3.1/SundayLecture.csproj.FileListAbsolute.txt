@@ -1,0 +1,13 @@
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.exe
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.deps.json
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.runtimeconfig.json
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.runtimeconfig.dev.json
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.dll
+D:\Homework\SundayLecture\SundayLecture\bin\Debug\netcoreapp3.1\SundayLecture.pdb
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.csprojAssemblyReference.cache
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.csproj.CoreCompileInputs.cache
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.AssemblyInfoInputs.cache
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.AssemblyInfo.cs
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.dll
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.pdb
+D:\Homework\SundayLecture\SundayLecture\obj\Debug\netcoreapp3.1\SundayLecture.genruntimeconfig.cache

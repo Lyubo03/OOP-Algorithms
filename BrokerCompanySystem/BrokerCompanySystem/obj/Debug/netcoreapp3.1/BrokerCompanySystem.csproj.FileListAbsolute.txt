@@ -1,0 +1,13 @@
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.exe
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.deps.json
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.runtimeconfig.json
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.runtimeconfig.dev.json
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.dll
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\netcoreapp3.1\BrokerCompanySystem.pdb
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.csprojAssemblyReference.cache
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.csproj.CoreCompileInputs.cache
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.AssemblyInfoInputs.cache
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.AssemblyInfo.cs
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.dll
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.pdb
+D:\Homework\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\netcoreapp3.1\BrokerCompanySystem.genruntimeconfig.cache

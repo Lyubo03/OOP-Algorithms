@@ -1,0 +1,13 @@
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.exe
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.deps.json
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.json
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.dev.json
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.dll
+D:\Homework\EncapsulationExericise\BoxData\bin\Debug\netcoreapp3.1\BoxData.pdb
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.csprojAssemblyReference.cache
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfo.cs
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.dll
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.pdb
+D:\Homework\EncapsulationExericise\BoxData\obj\Debug\netcoreapp3.1\BoxData.genruntimeconfig.cache

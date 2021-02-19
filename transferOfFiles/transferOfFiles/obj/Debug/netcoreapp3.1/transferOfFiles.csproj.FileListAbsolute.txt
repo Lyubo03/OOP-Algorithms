@@ -1,0 +1,14 @@
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\copyMe.png
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.exe
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.deps.json
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.runtimeconfig.json
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.runtimeconfig.dev.json
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.dll
+D:\Homework\transferOfFiles\transferOfFiles\bin\Debug\netcoreapp3.1\transferOfFiles.pdb
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.csprojAssemblyReference.cache
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.csproj.CoreCompileInputs.cache
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.AssemblyInfoInputs.cache
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.AssemblyInfo.cs
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.dll
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.pdb
+D:\Homework\transferOfFiles\transferOfFiles\obj\Debug\netcoreapp3.1\transferOfFiles.genruntimeconfig.cache

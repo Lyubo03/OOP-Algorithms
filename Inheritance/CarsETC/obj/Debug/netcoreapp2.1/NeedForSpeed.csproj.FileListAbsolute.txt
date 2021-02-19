@@ -1,0 +1,12 @@
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\Homework\Inheritance\CarsETC\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.csprojAssemblyReference.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb
+D:\Homework\Inheritance\CarsETC\obj\Debug\netcoreapp2.1\NeedForSpeed.genruntimeconfig.cache

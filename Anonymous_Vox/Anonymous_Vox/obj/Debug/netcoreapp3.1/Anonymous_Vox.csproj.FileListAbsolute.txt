@@ -1,0 +1,13 @@
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.exe
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.deps.json
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.runtimeconfig.json
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.runtimeconfig.dev.json
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.dll
+D:\Homework\Anonymous_Vox\Anonymous_Vox\bin\Debug\netcoreapp3.1\Anonymous_Vox.pdb
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.csprojAssemblyReference.cache
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.csproj.CoreCompileInputs.cache
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.AssemblyInfoInputs.cache
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.AssemblyInfo.cs
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.dll
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.pdb
+D:\Homework\Anonymous_Vox\Anonymous_Vox\obj\Debug\netcoreapp3.1\Anonymous_Vox.genruntimeconfig.cache

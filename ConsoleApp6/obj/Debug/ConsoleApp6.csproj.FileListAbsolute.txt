@@ -1,0 +1,6 @@
+D:\Homework\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Homework\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Homework\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Homework\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Homework\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

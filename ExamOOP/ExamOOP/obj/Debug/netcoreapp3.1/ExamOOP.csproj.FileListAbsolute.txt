@@ -1,0 +1,13 @@
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.exe
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.deps.json
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.runtimeconfig.json
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.runtimeconfig.dev.json
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.dll
+D:\Homework\ExamOOP\ExamOOP\bin\Debug\netcoreapp3.1\ExamOOP.pdb
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.csprojAssemblyReference.cache
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.csproj.CoreCompileInputs.cache
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.AssemblyInfoInputs.cache
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.AssemblyInfo.cs
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.dll
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.pdb
+D:\Homework\ExamOOP\ExamOOP\obj\Debug\netcoreapp3.1\ExamOOP.genruntimeconfig.cache

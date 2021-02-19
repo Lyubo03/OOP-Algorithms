@@ -1,0 +1,13 @@
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.exe
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.dll
+D:\Homework\Market\Market\bin\Debug\netcoreapp3.1\Market.pdb
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.csproj.CoreCompileInputs.cache
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.dll
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.pdb
+D:\Homework\Market\Market\obj\Debug\netcoreapp3.1\Market.genruntimeconfig.cache

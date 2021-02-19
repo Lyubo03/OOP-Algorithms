@@ -1,0 +1,13 @@
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.exe
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.deps.json
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.runtimeconfig.json
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.runtimeconfig.dev.json
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.dll
+D:\Homework\HappyNumbers\HappyNumbers\bin\Debug\netcoreapp3.1\HappyNumbers.pdb
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.csprojAssemblyReference.cache
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.csproj.CoreCompileInputs.cache
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.AssemblyInfoInputs.cache
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.AssemblyInfo.cs
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.dll
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.pdb
+D:\Homework\HappyNumbers\HappyNumbers\obj\Debug\netcoreapp3.1\HappyNumbers.genruntimeconfig.cache

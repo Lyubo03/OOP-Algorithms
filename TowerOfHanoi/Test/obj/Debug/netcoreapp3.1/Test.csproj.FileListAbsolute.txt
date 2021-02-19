@@ -1,0 +1,13 @@
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\Homework\TowerOfHanoi\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\Homework\TowerOfHanoi\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.exe
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.deps.json
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.runtimeconfig.json
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.runtimeconfig.dev.json
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.dll
+D:\Homework\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp3.1\Generics-Exercise.pdb
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.csprojAssemblyReference.cache
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.csproj.CoreCompileInputs.cache
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.AssemblyInfoInputs.cache
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.AssemblyInfo.cs
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.dll
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.pdb
+D:\Homework\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp3.1\Generics-Exercise.genruntimeconfig.cache

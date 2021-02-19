@@ -1,0 +1,13 @@
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Homework\Polymorohism\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Homework\Polymorohism\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

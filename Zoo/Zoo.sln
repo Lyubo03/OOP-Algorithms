@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{3ADD9789-02E2-426E-B2FE-9C353046CA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "NeedForSpeed\NeedForSpeed.csproj", "{2945E086-1704-4135-9351-3358215D8042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{2B3684DD-99AF-438E-83B3-B0FECA1B4607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADD9789-02E2-426E-B2FE-9C353046CA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADD9789-02E2-426E-B2FE-9C353046CA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADD9789-02E2-426E-B2FE-9C353046CA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADD9789-02E2-426E-B2FE-9C353046CA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2945E086-1704-4135-9351-3358215D8042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2945E086-1704-4135-9351-3358215D8042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2945E086-1704-4135-9351-3358215D8042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2945E086-1704-4135-9351-3358215D8042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3684DD-99AF-438E-83B3-B0FECA1B4607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3684DD-99AF-438E-83B3-B0FECA1B4607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3684DD-99AF-438E-83B3-B0FECA1B4607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3684DD-99AF-438E-83B3-B0FECA1B4607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F03778B2-2051-4E93-BAA8-99C0F1DA56F1}
+	EndGlobalSection
+EndGlobal

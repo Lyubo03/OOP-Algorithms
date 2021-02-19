@@ -1,0 +1,13 @@
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.exe
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.deps.json
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.runtimeconfig.json
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.runtimeconfig.dev.json
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.dll
+D:\Homework\StarWars\StarWars\bin\Debug\netcoreapp3.1\StarWars.pdb
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.csprojAssemblyReference.cache
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.csproj.CoreCompileInputs.cache
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfoInputs.cache
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfo.cs
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.dll
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.pdb
+D:\Homework\StarWars\StarWars\obj\Debug\netcoreapp3.1\StarWars.genruntimeconfig.cache

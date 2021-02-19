@@ -1,0 +1,13 @@
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.exe
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.deps.json
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.json
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.dev.json
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.dll
+D:\Homework\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.pdb
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfoInputs.cache
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfo.cs
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.dll
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.pdb
+D:\Homework\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.genruntimeconfig.cache

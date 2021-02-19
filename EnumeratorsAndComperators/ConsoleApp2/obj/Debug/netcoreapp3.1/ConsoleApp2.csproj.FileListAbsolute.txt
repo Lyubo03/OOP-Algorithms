@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Homework\EnumeratorsAndComperators\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

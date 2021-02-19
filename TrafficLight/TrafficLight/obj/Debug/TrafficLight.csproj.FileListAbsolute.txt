@@ -1,0 +1,10 @@
+D:\Homework\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+D:\Homework\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+D:\Homework\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojAssemblyReference.cache
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Form1.resources
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+D:\Homework\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb

@@ -1,0 +1,13 @@
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.exe
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.deps.json
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.runtimeconfig.json
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.runtimeconfig.dev.json
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.dll
+D:\Homework\Football-Team\Football-Team\bin\Debug\netcoreapp3.1\Football-Team.pdb
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.csprojAssemblyReference.cache
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.csproj.CoreCompileInputs.cache
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.AssemblyInfoInputs.cache
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.AssemblyInfo.cs
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.dll
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.pdb
+D:\Homework\Football-Team\Football-Team\obj\Debug\netcoreapp3.1\Football-Team.genruntimeconfig.cache

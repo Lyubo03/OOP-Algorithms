@@ -1,0 +1,13 @@
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.exe
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.deps.json
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.runtimeconfig.json
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.runtimeconfig.dev.json
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.dll
+D:\Homework\Exam\Exam-Exercise3\bin\Debug\netcoreapp3.1\Exam-Exercise3.pdb
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.csprojAssemblyReference.cache
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.csproj.CoreCompileInputs.cache
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.AssemblyInfoInputs.cache
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.AssemblyInfo.cs
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.dll
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.pdb
+D:\Homework\Exam\Exam-Exercise3\obj\Debug\netcoreapp3.1\Exam-Exercise3.genruntimeconfig.cache

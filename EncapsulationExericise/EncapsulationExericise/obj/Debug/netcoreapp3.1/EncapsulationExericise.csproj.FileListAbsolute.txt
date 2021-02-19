@@ -1,0 +1,13 @@
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.csprojAssemblyReference.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.AssemblyInfo.cs
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.exe
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.deps.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.runtimeconfig.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.runtimeconfig.dev.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.dll
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\EncapsulationExericise.pdb
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.dll
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.pdb
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\EncapsulationExericise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+D:\Homework\Exercises\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csprojAssemblyReference.cache
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+D:\Homework\Exercises\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache

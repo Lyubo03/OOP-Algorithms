@@ -1,0 +1,13 @@
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.exe
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.deps.json
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.runtimeconfig.json
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.runtimeconfig.dev.json
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.dll
+D:\Homework\AfterMonth\AfterMonth\bin\Debug\netcoreapp3.1\AfterMonth.pdb
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.csprojAssemblyReference.cache
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.csproj.CoreCompileInputs.cache
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.AssemblyInfoInputs.cache
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.AssemblyInfo.cs
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.dll
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.pdb
+D:\Homework\AfterMonth\AfterMonth\obj\Debug\netcoreapp3.1\AfterMonth.genruntimeconfig.cache

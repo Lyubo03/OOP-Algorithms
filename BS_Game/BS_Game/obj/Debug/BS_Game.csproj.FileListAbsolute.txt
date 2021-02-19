@@ -1,0 +1,11 @@
+D:\Homework\BS_Game\BS_Game\bin\Debug\BS_Game.exe.config
+D:\Homework\BS_Game\BS_Game\bin\Debug\BS_Game.exe
+D:\Homework\BS_Game\BS_Game\bin\Debug\BS_Game.pdb
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.csprojAssemblyReference.cache
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.MainForm.resources
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.Properties.Resources.resources
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.csproj.GenerateResource.cache
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.csproj.CoreCompileInputs.cache
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.exe
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.pdb
+D:\Homework\BS_Game\BS_Game\obj\Debug\BS_Game.Close.resources

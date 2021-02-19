@@ -1,0 +1,13 @@
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+D:\Homework\ConsoleApp15\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+D:\Homework\ConsoleApp15\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache

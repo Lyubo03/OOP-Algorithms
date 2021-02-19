@@ -1,0 +1,13 @@
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+D:\Homework\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+D:\Homework\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache

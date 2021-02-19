@@ -1,0 +1,13 @@
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.exe
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.deps.json
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.runtimeconfig.json
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.runtimeconfig.dev.json
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.dll
+D:\Homework\EncapsulationExericise\Shopping Spree\bin\Debug\netcoreapp3.1\Shopping_Spree.pdb
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.csprojAssemblyReference.cache
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.AssemblyInfo.cs
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.dll
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.pdb
+D:\Homework\EncapsulationExericise\Shopping Spree\obj\Debug\netcoreapp3.1\Shopping_Spree.genruntimeconfig.cache

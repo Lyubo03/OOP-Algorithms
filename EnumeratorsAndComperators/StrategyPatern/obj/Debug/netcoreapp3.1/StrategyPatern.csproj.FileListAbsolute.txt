@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.exe
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.deps.json
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.dll
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\bin\Debug\netcoreapp3.1\StrategyPatern.pdb
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.dll
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.pdb
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.genruntimeconfig.cache
+D:\Homework\EnumeratorsAndComperators\StrategyPatern\obj\Debug\netcoreapp3.1\StrategyPatern.csprojAssemblyReference.cache

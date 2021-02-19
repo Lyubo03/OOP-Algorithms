@@ -1,0 +1,12 @@
+D:\Homework\Three_Forms\Three_Forms\bin\Debug\Three_Forms.exe.config
+D:\Homework\Three_Forms\Three_Forms\bin\Debug\Three_Forms.exe
+D:\Homework\Three_Forms\Three_Forms\bin\Debug\Three_Forms.pdb
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.csprojAssemblyReference.cache
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.Form1.resources
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.Form2.resources
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.Form3.resources
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.Properties.Resources.resources
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.csproj.GenerateResource.cache
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.csproj.CoreCompileInputs.cache
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.exe
+D:\Homework\Three_Forms\Three_Forms\obj\Debug\Three_Forms.pdb

@@ -1,0 +1,13 @@
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csprojAssemblyReference.cache
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Homework\AbstractionsAndInterfaces\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache

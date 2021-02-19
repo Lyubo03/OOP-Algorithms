@@ -1,0 +1,13 @@
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\Homework\Vehicles\Problem 3. Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\Homework\Vehicles\Problem 3. Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

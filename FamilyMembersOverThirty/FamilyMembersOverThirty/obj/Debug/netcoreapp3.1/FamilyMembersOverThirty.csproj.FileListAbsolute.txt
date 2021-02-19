@@ -1,0 +1,13 @@
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.exe
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.deps.json
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.runtimeconfig.json
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.runtimeconfig.dev.json
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.dll
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\bin\Debug\netcoreapp3.1\FamilyMembersOverThirty.pdb
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.csprojAssemblyReference.cache
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.csproj.CoreCompileInputs.cache
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.AssemblyInfoInputs.cache
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.AssemblyInfo.cs
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.dll
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.pdb
+D:\Homework\FamilyMembersOverThirty\FamilyMembersOverThirty\obj\Debug\netcoreapp3.1\FamilyMembersOverThirty.genruntimeconfig.cache

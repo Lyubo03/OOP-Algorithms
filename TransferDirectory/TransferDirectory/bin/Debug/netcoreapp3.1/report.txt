@@ -1,0 +1,18 @@
+.json
+--TransferDirectory.runtimeconfig.json - 0.150kb
+--TransferDirectory.runtimeconfig.dev.json - 0.170kb
+--TransferDirectory.deps.json - 0.433kb
+.cs
+--Program.cs - 1.838kb
+.dll
+--TransferDirectory.dll - 7.000kb
+.exe
+--TransferDirectory.exe - 166.000kb
+.pdb
+--TransferDirectory.pdb - 1.488kb
+.txt
+--report.txt - 0.480kb
+llections.Generic.Dictionary`2[System.String,System.Double]
+3
+--.json - System.Collections.Generic.Dictionary`2[System.String,System.Double]
+.Double]\r\n

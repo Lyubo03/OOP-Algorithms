@@ -1,0 +1,13 @@
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.csprojAssemblyReference.cache
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.csproj.CoreCompileInputs.cache
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.AssemblyInfoInputs.cache
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.AssemblyInfo.cs
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.exe
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.deps.json
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.runtimeconfig.json
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.runtimeconfig.dev.json
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.dll
+D:\Homework\LectionAlgo\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.pdb
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.dll
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.pdb
+D:\Homework\LectionAlgo\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.genruntimeconfig.cache

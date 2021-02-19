@@ -1,0 +1,13 @@
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.exe
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.deps.json
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.runtimeconfig.json
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.runtimeconfig.dev.json
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.dll
+D:\Homework\SpaceTraveller\SpaceTraveller\bin\Debug\netcoreapp3.1\SpaceTraveller.pdb
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.csprojAssemblyReference.cache
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.csproj.CoreCompileInputs.cache
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.AssemblyInfoInputs.cache
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.AssemblyInfo.cs
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.dll
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.pdb
+D:\Homework\SpaceTraveller\SpaceTraveller\obj\Debug\netcoreapp3.1\SpaceTraveller.genruntimeconfig.cache

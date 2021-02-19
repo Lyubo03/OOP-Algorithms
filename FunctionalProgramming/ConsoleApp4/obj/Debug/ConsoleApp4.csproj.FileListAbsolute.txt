@@ -1,0 +1,7 @@
+D:\Homework\FunctionalProgramming\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Homework\FunctionalProgramming\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Homework\FunctionalProgramming\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Homework\FunctionalProgramming\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Homework\FunctionalProgramming\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Homework\FunctionalProgramming\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Homework\FunctionalProgramming\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

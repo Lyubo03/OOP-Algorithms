@@ -1,0 +1,13 @@
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.exe
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.deps.json
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.runtimeconfig.json
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.runtimeconfig.dev.json
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.dll
+D:\Homework\DayBeforeExam\DayBeforeExam\bin\Debug\netcoreapp3.1\DayBeforeExam.pdb
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.csprojAssemblyReference.cache
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.csproj.CoreCompileInputs.cache
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.AssemblyInfoInputs.cache
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.AssemblyInfo.cs
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.dll
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.pdb
+D:\Homework\DayBeforeExam\DayBeforeExam\obj\Debug\netcoreapp3.1\DayBeforeExam.genruntimeconfig.cache

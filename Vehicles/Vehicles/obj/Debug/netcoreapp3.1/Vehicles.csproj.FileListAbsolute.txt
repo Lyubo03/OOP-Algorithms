@@ -1,0 +1,13 @@
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\Homework\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Homework\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

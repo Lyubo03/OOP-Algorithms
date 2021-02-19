@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.exe
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.deps.json
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.dll
+D:\Homework\EnumeratorsAndComperators\Probmle01\bin\Debug\netcoreapp3.1\Probmle01.pdb
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.dll
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.pdb
+D:\Homework\EnumeratorsAndComperators\Probmle01\obj\Debug\netcoreapp3.1\Probmle01.genruntimeconfig.cache

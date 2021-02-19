@@ -1,0 +1,13 @@
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.exe
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.deps.json
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.runtimeconfig.json
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.runtimeconfig.dev.json
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.dll
+D:\Homework\ByMyself\ByMyself\bin\Debug\netcoreapp3.1\ByMyself.pdb
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.csprojAssemblyReference.cache
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.csproj.CoreCompileInputs.cache
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.AssemblyInfoInputs.cache
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.AssemblyInfo.cs
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.dll
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.pdb
+D:\Homework\ByMyself\ByMyself\obj\Debug\netcoreapp3.1\ByMyself.genruntimeconfig.cache

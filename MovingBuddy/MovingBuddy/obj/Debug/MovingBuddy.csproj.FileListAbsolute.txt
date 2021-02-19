@@ -1,0 +1,10 @@
+D:\Homework\MovingBuddy\MovingBuddy\bin\Debug\MovingBuddy.exe.config
+D:\Homework\MovingBuddy\MovingBuddy\bin\Debug\MovingBuddy.exe
+D:\Homework\MovingBuddy\MovingBuddy\bin\Debug\MovingBuddy.pdb
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.csprojAssemblyReference.cache
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.Form1.resources
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.Properties.Resources.resources
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.csproj.GenerateResource.cache
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.csproj.CoreCompileInputs.cache
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.exe
+D:\Homework\MovingBuddy\MovingBuddy\obj\Debug\MovingBuddy.pdb

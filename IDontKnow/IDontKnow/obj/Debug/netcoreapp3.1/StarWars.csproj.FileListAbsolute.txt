@@ -1,0 +1,4 @@
+D:\Homework\IDontKnow\IDontKnow\bin\Debug\netcoreapp3.1\StarWars.exe
+D:\Homework\IDontKnow\IDontKnow\obj\Debug\netcoreapp3.1\StarWars.csprojAssemblyReference.cache
+D:\Homework\IDontKnow\IDontKnow\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfoInputs.cache
+D:\Homework\IDontKnow\IDontKnow\obj\Debug\netcoreapp3.1\StarWars.AssemblyInfo.cs

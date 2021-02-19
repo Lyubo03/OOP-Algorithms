@@ -1,0 +1,6 @@
+D:\Homework\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Homework\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Homework\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Homework\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Homework\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Homework\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache

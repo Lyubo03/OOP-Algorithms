@@ -1,0 +1,12 @@
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csprojAssemblyReference.cache
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfoInputs.cache
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfo.cs
+D:\Homework\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.deps.json
+D:\Homework\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.json
+D:\Homework\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.dev.json
+D:\Homework\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.dll
+D:\Homework\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.pdb
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.dll
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.pdb
+D:\Homework\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.exe
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.deps.json
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.dll
+D:\Homework\EnumeratorsAndComperators\PetClinics\bin\Debug\netcoreapp3.1\PetClinics.pdb
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.dll
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.pdb
+D:\Homework\EnumeratorsAndComperators\PetClinics\obj\Debug\netcoreapp3.1\PetClinics.genruntimeconfig.cache

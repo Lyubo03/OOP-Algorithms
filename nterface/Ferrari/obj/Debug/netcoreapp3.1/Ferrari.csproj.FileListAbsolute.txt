@@ -1,0 +1,12 @@
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.exe
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.deps.json
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.runtimeconfig.json
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.runtimeconfig.dev.json
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.dll
+D:\Homework\nterface\Ferrari\bin\Debug\netcoreapp3.1\Ferrari.pdb
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.csproj.CoreCompileInputs.cache
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.AssemblyInfoInputs.cache
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.AssemblyInfo.cs
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.dll
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.pdb
+D:\Homework\nterface\Ferrari\obj\Debug\netcoreapp3.1\Ferrari.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.exe
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.deps.json
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.runtimeconfig.json
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.runtimeconfig.dev.json
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.dll
+D:\Homework\Curses\Curses\bin\Debug\netcoreapp3.1\Curses.pdb
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.csprojAssemblyReference.cache
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.csproj.CoreCompileInputs.cache
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.AssemblyInfoInputs.cache
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.AssemblyInfo.cs
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.dll
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.pdb
+D:\Homework\Curses\Curses\obj\Debug\netcoreapp3.1\Curses.genruntimeconfig.cache

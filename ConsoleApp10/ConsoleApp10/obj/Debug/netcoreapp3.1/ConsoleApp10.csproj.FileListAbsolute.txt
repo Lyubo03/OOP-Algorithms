@@ -1,0 +1,13 @@
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+D:\Homework\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+D:\Homework\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache

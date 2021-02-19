@@ -1,0 +1,13 @@
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+D:\Homework\EnumeratorsAndComperators\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.csprojAssemblyReference.cache
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+D:\Homework\EnumeratorsAndComperators\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

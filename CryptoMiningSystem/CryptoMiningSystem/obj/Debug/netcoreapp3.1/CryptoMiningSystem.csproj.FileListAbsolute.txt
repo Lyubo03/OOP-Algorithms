@@ -1,0 +1,13 @@
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.exe
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.deps.json
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.runtimeconfig.json
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.runtimeconfig.dev.json
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.dll
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\bin\Debug\netcoreapp3.1\CryptoMiningSystem.pdb
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.csprojAssemblyReference.cache
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.csproj.CoreCompileInputs.cache
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.AssemblyInfoInputs.cache
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.AssemblyInfo.cs
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.dll
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.pdb
+D:\Homework\CryptoMiningSystem\CryptoMiningSystem\obj\Debug\netcoreapp3.1\CryptoMiningSystem.genruntimeconfig.cache

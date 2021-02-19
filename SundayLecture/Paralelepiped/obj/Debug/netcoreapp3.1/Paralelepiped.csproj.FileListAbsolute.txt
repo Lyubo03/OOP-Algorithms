@@ -1,0 +1,13 @@
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.exe
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.deps.json
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.runtimeconfig.json
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.runtimeconfig.dev.json
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.dll
+D:\Homework\SundayLecture\Paralelepiped\bin\Debug\netcoreapp3.1\Paralelepiped.pdb
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.csprojAssemblyReference.cache
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.csproj.CoreCompileInputs.cache
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.AssemblyInfoInputs.cache
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.AssemblyInfo.cs
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.dll
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.pdb
+D:\Homework\SundayLecture\Paralelepiped\obj\Debug\netcoreapp3.1\Paralelepiped.genruntimeconfig.cache

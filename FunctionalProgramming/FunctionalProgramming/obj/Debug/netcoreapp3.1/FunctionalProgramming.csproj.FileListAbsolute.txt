@@ -1,0 +1,13 @@
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.exe
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.deps.json
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.json
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.dev.json
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\Homework\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csprojAssemblyReference.cache
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfo.cs
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+D:\Homework\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.genruntimeconfig.cache

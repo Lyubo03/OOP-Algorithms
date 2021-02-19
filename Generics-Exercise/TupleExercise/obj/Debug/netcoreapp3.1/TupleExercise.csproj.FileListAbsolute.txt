@@ -1,0 +1,13 @@
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.exe
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.deps.json
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.runtimeconfig.json
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.runtimeconfig.dev.json
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.dll
+D:\Homework\Generics-Exercise\TupleExercise\bin\Debug\netcoreapp3.1\TupleExercise.pdb
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.csprojAssemblyReference.cache
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.csproj.CoreCompileInputs.cache
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.AssemblyInfoInputs.cache
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.AssemblyInfo.cs
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.dll
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.pdb
+D:\Homework\Generics-Exercise\TupleExercise\obj\Debug\netcoreapp3.1\TupleExercise.genruntimeconfig.cache

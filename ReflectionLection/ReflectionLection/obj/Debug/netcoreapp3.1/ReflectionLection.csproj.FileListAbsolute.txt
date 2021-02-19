@@ -1,0 +1,13 @@
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.exe
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.deps.json
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.runtimeconfig.json
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.runtimeconfig.dev.json
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.dll
+D:\Homework\ReflectionLection\ReflectionLection\bin\Debug\netcoreapp3.1\ReflectionLection.pdb
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.csprojAssemblyReference.cache
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.csproj.CoreCompileInputs.cache
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.AssemblyInfoInputs.cache
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.AssemblyInfo.cs
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.dll
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.pdb
+D:\Homework\ReflectionLection\ReflectionLection\obj\Debug\netcoreapp3.1\ReflectionLection.genruntimeconfig.cache

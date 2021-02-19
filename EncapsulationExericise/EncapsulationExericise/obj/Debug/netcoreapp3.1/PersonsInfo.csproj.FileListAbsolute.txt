@@ -1,0 +1,13 @@
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Homework\EncapsulationExericise\EncapsulationExericise\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Homework\EncapsulationExericise\EncapsulationExericise\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
