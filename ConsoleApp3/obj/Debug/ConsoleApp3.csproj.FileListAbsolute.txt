@@ -1,6 +1,0 @@
-D:\Homework\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
-D:\Homework\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-D:\Homework\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-D:\Homework\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-D:\Homework\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-D:\Homework\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
